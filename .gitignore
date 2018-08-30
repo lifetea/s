@@ -1,0 +1,8 @@
+venv/
+files/base/
+files/detail/
+files/hgt/
+files/yin/
+files/zt/
+.idea/
+log/
